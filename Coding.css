@@ -1,6 +1,6 @@
 body{
     background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWszMnE1dXZ3anZ3MjJ6NGprN2V6eHl4MTgzZWtyaHVuMWU3aTd6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fC4vvkZZNX1Tfnuxzt/giphy.gif");
-    color:white;
+    color:#484B38;
     background-size:cover ;
     text-align: center;
     display: block;
@@ -19,6 +19,7 @@ body{
     background: white;
     border:none;
     font-family: inherit;
+    color:#484B38;
 }
 
 .cta{
