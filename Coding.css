@@ -1,12 +1,19 @@
 body{
-    background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWszMnE1dXZ3anZ3MjJ6NGprN2V6eHl4MTgzZWtyaHVuMWU3aTd6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fC4vvkZZNX1Tfnuxzt/giphy.gif");
+
     color:#484B38;
-    background-size:cover ;
     text-align: center;
     display: block;
+    padding: auto auto;
     font-family: "Orbitron", sans-serif;
 
     
+}
+
+#hero{
+    background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWszMnE1dXZ3anZ3MjJ6NGprN2V6eHl4MTgzZWtyaHVuMWU3aTd6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fC4vvkZZNX1Tfnuxzt/giphy.gif");
+    background-size:cover ;
+    padding: 500px 0 100px 0;
+
 }
 
 #main-logo{
