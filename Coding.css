@@ -17,3 +17,7 @@ body{
     border:none;
     font-family: inherit;
 }
+
+.cta{
+    border-bottom: 4px solid white;
+}
