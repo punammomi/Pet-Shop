@@ -18,6 +18,6 @@ body{
     font-family: inherit;
 }
 
-.cta{
+#cta{
     border-bottom: 4px solid white;
 }
